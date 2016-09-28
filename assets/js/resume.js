@@ -16,6 +16,10 @@ class Bio extends React.Component {
             <i className="fa fa-envelope" />
             {this.props.email}
           </li>
+          <li>
+            <i className="fa fa-globe" />
+            {this.props.website}
+          </li>
         </ul>
         <p>{this.props.summary}</p>
       </div>

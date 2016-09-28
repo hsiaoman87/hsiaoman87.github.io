@@ -7,6 +7,8 @@ var resume = {
     email: 'hsiaoman87@gmail.com',
     github: 'hsiaoman87',
     linkedin: 'andrewhsiao',
+    website: 'andrewhsiao.com',
+    website_href: 'http://www.andrewhsiao.com',
     summary: 'Highly skilled software development professional bringing more than 7 years in software design, development and integration.  Experience building performant server architecture and high-quality consumer and enterprise products end-to-end.'
   },
   skill_groups: [
