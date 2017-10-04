@@ -16,7 +16,6 @@ class Contact extends React.Component {
       <div className="contact-container container-block">
         <ul className="list-unstyled contact-list">
           <li className="email"><i className="fa fa-envelope"></i><a href={`mailto:${this.props.email}`}>{this.props.email}</a></li>
-          <li className="phone"><i className="fa fa-phone"></i><a href={`tel:${this.props.cell}`}>{this.props.cell}</a></li>
           <li className="linkedin"><i className="fa fa-linkedin"></i><a href={`https://linkedin.com/in/${this.props.linkedin}`} target="_blank">{this.props.linkedin}</a></li>
           <li className="github"><i className="fa fa-github"></i><a href={`https://github.com/${this.props.github}`} target="_blank">{this.props.github}</a></li>
         </ul>

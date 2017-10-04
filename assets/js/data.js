@@ -3,7 +3,6 @@ var resume = {
     name: 'Andrew Hsiao',
     subtitle: 'Software Engineer',
     location: 'San Francisco, CA',
-    cell: '314-412-8083',
     email: 'hsiaoman87@gmail.com',
     github: 'hsiaoman87',
     linkedin: 'andrewhsiao',
